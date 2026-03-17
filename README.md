@@ -11,7 +11,7 @@ A responsive weather web application that displays real-time weather data using 
 - HTML
 - CSS
 - JavaScript
-- Weather API
+- OpenWeatherMap API
 
 ## Author
 Simran
